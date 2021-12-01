@@ -1,0 +1,24 @@
+{
+  "name": "redux-learning",
+  "version": "1.0.0",
+  "description": "Examples for learning redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhamHaisami/redux-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhamHaisami/redux-learning/issues"
+  },
+  "homepage": "https://github.com/AdhamHaisami/redux-learning#readme",
+  "dependencies": {
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6"
+  }
+}
